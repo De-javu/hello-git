@@ -1,2 +1,2 @@
 <?php
-echo 'Hola mundo login y master';
+echo 'Hola mundo login de nuevo stash';
